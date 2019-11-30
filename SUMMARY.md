@@ -1,0 +1,22 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Getting Started](getting-started/README.md)
+  * [Build Environment](getting-started/build-environment.md)
+  * [Starter Templates](getting-started/starter-templates.md)
+  * [Examples](getting-started/examples.md)
+* [html!](html.md)
+* [Components](components.md)
+* [Properties](properties.md)
+* [ComponentLink and Callbacks](componentlink.md)
+* [Agents](agents.md)
+* [Services](services.md)
+* [web-sys](web-sys.md)
+* [Refs](refs.md)
+* [Testing](testing.md)
+* [Optimizations & Best Practices](optimizations.md)
+* [Low-level library internals](how-it-works.md)
+* [Router](router.md)
+* [External Libs](external-libs.md)
+* [Roadmap](roadmap.md)
+
